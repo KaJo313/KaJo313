@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**KaJo313/KaJo313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on advancing my iOS app development skills at the Apple Developer Academy in Detroit, MI
 - 🌱 I’m currently learning Swift, SwiftUI, XCode, JSON, Sketch, ... and more!
@@ -14,6 +8,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I enjoy performing long-form Improv!
 -->
 
+### Hi there 👋
+
+<!--
+**KaJo313/KaJo313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 
 

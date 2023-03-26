@@ -1,4 +1,4 @@
-
+Welcome to my GitHub page
 - 🔭 I’m currently working on advancing my iOS app development skills at the Apple Developer Academy in Detroit, MI
 - 🌱 I’m currently learning Swift, SwiftUI, XCode, JSON, Sketch, ... and more!
 - 👯 I’m looking to collaborate on interesting projects...
